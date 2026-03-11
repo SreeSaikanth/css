@@ -1,0 +1,28 @@
+button{
+    background-color: black;
+    color: white;
+}
+h1{
+    color: aqua;
+    background-color: brown;
+}
+.first{
+    background-color: brown;
+    color: white;
+}
+#second{
+    color: blue;
+    background-color: wheat;
+}
+.first{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.h1{
+    color: green;
+    background-color: orangered;
+}
+#h1{
+    color: brown;
+    background-color: aquamarine;
+}
+
